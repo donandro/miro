@@ -20,7 +20,7 @@ import com.miro.task.models.Page;
 import com.miro.task.models.UpdateWidgetRequest;
 
 @RestController
-@RequestMapping("/api/widget")
+@RequestMapping("/api/widgets")
 public class WidgetController {
 
 	private IWidgetStore widgetStore;
