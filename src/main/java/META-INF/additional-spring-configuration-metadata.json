@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.store.current",
+  "type": "java.lang.String",
+  "description": "Current type of widgets repository (memory, db)"
+}]}
